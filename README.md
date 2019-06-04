@@ -1,8 +1,8 @@
-# We Only Get One Ocean
-
+# We Only Get One Planet
+<a href="https://cleanuplocator.jen-icl.com/" target="_blank">Click to visit live site</a>
 > 48 hour Hackathon project aimed to combine different data sources into an application
 >
-> This application is designed to create a platform for users to find out more about the detrimental effects of plastic pollution and connect to public events calling for volunteers help cleanup local communities
+> This application is designed to create a platform for users to find out more about the detrimental effects of plastic pollution and connect to public events calling for volunteers to help cleanup local communities
 
 ### Requirements
 > - Combine at least 4 **external** resources via AJAX requests and present the returned information in an application

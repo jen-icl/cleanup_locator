@@ -1,5 +1,4 @@
 # We Only Get One Planet
-
 > 48 hour Hackathon project aimed to combine different data sources into an application
 >
 > This application is designed to create a platform for users to find out more about the detrimental effects of plastic pollution and connect to public events calling for volunteers help cleanup local communities

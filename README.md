@@ -1,5 +1,5 @@
 # We Only Get One Planet
-<a href="https://cleanuplocator.jen-icl.com/" target="_blank">Click to visit live site</a>
+<a href="https://cleanuplocator.jen-icl.com/" target="_blank">Click to visit live site</a><br>
 48 hour Hackathon project aimed to combine different data sources into an application
 
 This application is designed to create a platform for users to find out more about the detrimental effects of plastic pollution and connect to public events calling for volunteers to help cleanup local communities

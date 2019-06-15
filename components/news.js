@@ -63,6 +63,8 @@ class News {
                 'class': 'tickerItem',
                 'href': this.newsArticles[index].url,
                 'target': '_blank',
+                'rel': 'noopener noreferrer',
+                'aria-label': `Read more about: ${this.newsArticles[index].title}`,
                 'text': `${this.newsArticles[index].source}: ${this.newsArticles[index].title}`
             });
             tickerAnimation.append(tickerItem);
